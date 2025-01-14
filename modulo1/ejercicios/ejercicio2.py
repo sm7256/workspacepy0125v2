@@ -9,5 +9,5 @@ edad=int(input("ingrese su edad: "))
 print(type(edad))
 #edad=int(edad)
 valor=edad>18
-print(valor)
+print("el valor es",valor)
 

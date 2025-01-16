@@ -1,1 +1,1 @@
-print("codigo copiado de mi visual studio")
+print("codigo copiado de mi visual studio nro")

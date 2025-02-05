@@ -1,2 +1,3 @@
 gianmarco,email,12313211323,1231123,APROBADO
 gian1231,adsasd,4646,21312,NO-APROBADO
+sergio,mbalvin27@gmail.com,76535285,1500,APROBADO
